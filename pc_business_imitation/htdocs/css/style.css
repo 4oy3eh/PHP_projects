@@ -1,0 +1,36 @@
+.card {
+
+    width: 250px;
+
+}
+
+
+.btn{
+
+    width: 500px;
+    heigh: 10px;
+    font-size: 3rem;
+
+
+}
+
+
+.center{
+
+
+    max-width: 60%;
+    margin: auto;
+
+}
+
+
+.qwe{
+    width: 100%;
+    height: 35px;
+    font-size: 14px;
+}
+
+/*.card-img, .card-img-bottom, .card-img-top {*/
+
+/*    width: 250px;*/
+/*}*/
